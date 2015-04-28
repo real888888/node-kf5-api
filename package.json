@@ -2,6 +2,7 @@
   "name": "kf5-api",
   "version": "1.0.0",
   "description": "kf5 API client",
+  "homepage": "https://github.com/holyrain/node-kf5-api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
