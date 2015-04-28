@@ -1,0 +1,22 @@
+{
+  "name": "kf5-api",
+  "version": "1.0.0",
+  "description": "kf5 API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kf5",
+    "API",
+    "helpdesk",
+    "support"
+  ],
+  "author": "Ming Liu <384069799@qq.com> http://www.kf5.com",
+  "license": "MIT",
+  "dependencies": {
+    "async": "0.9.x",
+    "request": "2.55.x"
+  },
+  "readme": "ERROR: No README data found!"
+}
