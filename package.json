@@ -1,11 +1,11 @@
 {
   "name": "kf5-api",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "kf5 API client",
   "homepage": "https://github.com/holyrain/node-kf5-api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 1"
   },
   "keywords": [
     "kf5",
@@ -13,11 +13,10 @@
     "helpdesk",
     "support"
   ],
-  "author": "Ming Liu <384069799@qq.com> http://www.kf5.com",
+  "author": "Ming Liu <384069799@qq.com>",
   "license": "MIT",
   "dependencies": {
     "async": "0.9.x",
     "request": "2.55.x"
-  },
-  "readme": "ERROR: No README data found!"
+  }
 }
