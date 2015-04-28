@@ -3,9 +3,9 @@
 var kf5 = require('./../index');
 var path = require('path');
 var kf5client = kf5.client({
-    username:  'admin2@qq.com',
-    token:     '85d56fef211265f024079a2aca7030',
-    host: 'http://b.kf5.co/apiv2'
+    username:  'username',
+    token:     'token',
+    host: 'https://subdomain.kf5.com/apiv2'
 });
 
 // create request

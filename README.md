@@ -16,7 +16,7 @@ var kf5 = require('kf5-api');
 var kf5client = kf5.client({
     username:  'username',
     token:     'token',
-    host: 'http://subdomain.kf5.com/apiv2'
+    host: 'https://subdomain.kf5.com/apiv2'
 });
 
 kf5client.requests.list(function (err, req, result) {
